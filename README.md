@@ -77,4 +77,4 @@ A Python module which encode strings so that every character has the same number
 
  - The algorithm: [on my blog](https://foobuzz.github.io/equitext-blog/)
 
- - Module documentation: [here](https://foobuzz.github.io/equitext/)
+ - Module documentation: [here](https://pythonhosted.org/equitext/)
